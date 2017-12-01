@@ -21,7 +21,7 @@ setup(
     author="Brian Peterson",
     author_email="bpeterso2000@yahoo.com",
 
-    description="A tool to explore and list JSON document info",
+    description="A tool to explore and list JSON data",
     long_description=readme,
 
     packages=find_packages(include=['jsonls']),

@@ -1,7 +1,7 @@
 Jsonls
 ======
 
-*A tool to explore and list JSON document info*
+*A tool to explore and list JSON data*
 
 Usage
 -----
